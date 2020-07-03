@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://localhost"
+baseURL = "https://bonnoces.netlify.app"
 languageCode = "en-us"
 title = "BonNoces | Kitchen And Household"
 theme = "liva-hugo"
