@@ -1,9 +1,6 @@
 ######################## default configuration ####################
-<<<<<<< HEAD
+
 baseURL = "https://www.bonnoces.com"
-=======
-baseURL = "https://bonnoces.netlify.app"
->>>>>>> d16bbf404237d7a246be8092b8b85f5f745a56a4
 languageCode = "en-us"
 title = "BonNoces | Kitchen And Household"
 theme = "liva-hugo"
