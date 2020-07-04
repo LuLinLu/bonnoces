@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://localhost:1313"
+baseURL = "https://www.bonnoces.com"
 languageCode = "en-us"
 title = "BonNoces | Kitchen And Household"
 theme = "liva-hugo"
@@ -84,7 +84,7 @@ home = "Home"
 description = "BonNoces focus on household and kitchen products, and simplicity, aesthetic, colorfulness and environment protection are the philosophy BonNoces insists since its establishment."
 author = "BonNoces"
 # Google Analitycs
-googleAnalitycsID = "Your ID"
+googleAnalitycsID = "UA-171528615-1"
 # Contact Information
 mobile = "8615360816675"
 email = "service@bonnoces.com"
