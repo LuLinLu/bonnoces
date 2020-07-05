@@ -18,7 +18,7 @@ tags:
   - "New"
 
 # post type
-type: "featured"
+type: "post"
 ---
 
 > **Enjoy the pleasure of food, practical and beautiful tableware can bring out more delicious food. The pleasing time is very precious every minute. With favorite tableware, delicious food, for the beloved.**
@@ -48,7 +48,7 @@ Unique straw hat shape and elegant color design, easily coordinate with other di
 
 <hr>
 
-### [Buy It On Amazon](https://www.amazon.com/BonNoces-Ounces-Porcelain-Unique-inches/dp/B07SM8XNH5/ref=sr_1_19?dchild=1&m=A13U4E29D3TOAW&marketplaceID=ATVPDKIKX0DER&qid=1593312488&s=merchant-items&sr=1-19&th=1)
+### [Buy It On Amazon](https://www.amazon.com/dp/B07SM8XNH5)
 
 <hr>
 
