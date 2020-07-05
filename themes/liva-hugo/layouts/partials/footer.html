@@ -8,9 +8,9 @@
           {{ .Site.Params.newsletter.content | markdownify }}</p>
         <form name="subscribe" method="POST" class="row justify-content-center" netlify>
           <div class="input-group col-md-8">
-            <input type="text" class="form-control" placeholder="Your Email Address">
+            <input type="email" class="form-control" placeholder="Your Email Address">
             <div class="input-group-append">
-              <button class="input-group-text btn btn-primary">Subscribe</button>
+              <button type="submit" class="input-group-text btn btn-primary">Subscribe</button>
             </div>
           </div>
         </form>
