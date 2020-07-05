@@ -11,7 +11,7 @@ description: "this is meta description"
 
 # taxonomies
 categories: 
-  - - "Kitchen & Dining"
+  - "Kitchen & Dining"
 tags:
   - "Cupcake"
   - "3-Tier"
