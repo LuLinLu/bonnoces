@@ -1,6 +1,6 @@
 ---
-title: "BonNoces Porcelain Coffee Mug Set"
-date: 2020-07-01T10:07:47+06:00
+title: "30%OFF BonNoces Porcelain Coffee Mug Set"
+date: 2020-07-14T10:07:47+06:00
 draft: false
 
 # post thumb
@@ -21,7 +21,7 @@ tags:
   - "New"
 
 # post type
-type: "post"
+type: "featured"
 ---
 
 <hr>
@@ -43,7 +43,7 @@ type: "post"
 | Item Weight        | 1.1 pounds            |
 | Customer Reviews   | ❤️ ❤️ ❤️ ❤️ 🤍             |
 | ASIN               | B07SN95QH9             |
-| Price              | $13.99            |
+| Price              | $13.99    now🎈$9.8           |
 
 ### [Buy It On Amazon](https://www.amazon.com/dp/B07SN95QH9)
 
